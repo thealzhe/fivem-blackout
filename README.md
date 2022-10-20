@@ -1,7 +1,7 @@
 
 # 📰 ESXB (ESX Blackout) • V1 @thealzhe
 
-### 📃 Prérequis :
+### 📃 Prerequisites :
 ```
 - FiveM server.
 - ESX
